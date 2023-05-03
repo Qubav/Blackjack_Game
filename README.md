@@ -1,7 +1,7 @@
 # Blackjack Game
 
 Blackjack games is program that lets user to play Blackjack vs Computer.
-Rules of the game are simplified.
+Rules of the game are simplified.\
 Rules:
 - computer and player gets two random cards at start of the game,
 - player sees computers first card,
